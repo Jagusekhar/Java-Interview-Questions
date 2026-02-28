@@ -15,7 +15,7 @@ public class Constructorsample {
 	void display()
 	{
 		
-		System.out.println(name + i);
+		System.out.println(name + " "+ i);
 	}
 	
 	public static void main(String[] args) {

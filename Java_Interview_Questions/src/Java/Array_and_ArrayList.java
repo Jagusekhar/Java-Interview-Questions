@@ -25,6 +25,8 @@ public class Array_and_ArrayList {
 		employee.add(300);
 		employee.add(400);
 		employee.add(500);
+		employee.remove(1);
+		
 		
 		
 		System.out.println(employee);
