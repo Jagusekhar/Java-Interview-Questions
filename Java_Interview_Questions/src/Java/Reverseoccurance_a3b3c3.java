@@ -4,7 +4,7 @@ public class Reverseoccurance_a3b3c3 {
 	
 	public static void main(String[] args) {
 		
-		String str = "a3b3c3d5";
+		String str = "a2b3c3d5";
 		String rev = "";
 		
 		for(int i=0; i<str.length(); i+=2)

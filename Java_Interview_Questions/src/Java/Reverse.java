@@ -7,14 +7,14 @@ public class Reverse {
 	public static void main(String[] args) {
 
 
-		String name = "java";
+		String str = "java";  // Original string
 
-		String rev = "";
+		String rev = "";  // Empty string to store reversed string
 
-		for (int i = name.length()-1; i>=0; i--)
+		for (int i = str.length()-1; i>=0; i--)  // Loop starts from last index and moves backward
 		{
 
-			rev = rev+name.charAt(i);
+			rev = rev+str.charAt(i); // Add current character to rev
 		}
 		System.out.println(rev);
 

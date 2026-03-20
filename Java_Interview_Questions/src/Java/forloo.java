@@ -1,0 +1,19 @@
+package Java;
+
+public class forloo {
+
+	public static void main(String[] args) {
+		
+		String str = "Hellos";
+
+		
+		
+		for(int i=0; i<str.length();i++)
+		{
+
+			char ch = str.charAt(i);
+			System.out.println(ch);
+		}
+		
+	}
+}

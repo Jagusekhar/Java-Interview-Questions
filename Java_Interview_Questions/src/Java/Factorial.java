@@ -11,7 +11,7 @@ public class Factorial {
 		int factorial = 1;
 
 		//Loop from 1 to the given number
-		// i will take values 1, 2, 3
+		// i will take values 1, 2, 3	
 		//num is an int variable, not an array.
 		//So num.length is invalid — only arrays and strings have length.
 		

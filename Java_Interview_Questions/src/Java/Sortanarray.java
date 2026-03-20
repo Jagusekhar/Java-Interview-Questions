@@ -12,12 +12,12 @@ public class Sortanarray {
 		Arrays.sort(array);
 		
 		
-		for(int num : array)
-			
+		for(int i = 0; i < array.length; i++)
 		{
-			System.out.println(num);
-			
+		 //   int num = array[i];
+		    System.out.println(array[i]);
 		}
+			
 		
 	}
 	
