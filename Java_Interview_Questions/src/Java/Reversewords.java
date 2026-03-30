@@ -7,7 +7,7 @@ public class Reversewords {
     public static void main(String[] args) { 
     // Main method - program execution starts from here
 
-        String str = "Jagu Hari chandra sekhar"; 
+        String str = "Happy Birthday"; 
         // Input string
 
         String[] word = str.split(" "); 

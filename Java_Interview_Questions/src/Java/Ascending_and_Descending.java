@@ -4,7 +4,7 @@ public class Ascending_and_Descending {
 
     public static void main(String[] args) {
         
-    int[] arr = {5,2,6,8,3};
+    int[] arr = {4,6,2,100};
     
     Arrays.sort(arr);
     
